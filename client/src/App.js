@@ -1,7 +1,12 @@
 import "./App.css";
+import { TableSearch } from "./views";
 
-function App() {
-  return <div className="App"></div>;
-}
+const App = () => {
+  return (
+    <>
+      <TableSearch></TableSearch>
+    </>
+  );
+};
 
 export default App;
