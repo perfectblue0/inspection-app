@@ -1,3 +1,4 @@
 import Navigation from "./Navigation";
+import SearchButton from "./SearchButton";
 
-export { Navigation };
+export { Navigation, SearchButton };
